@@ -15,9 +15,7 @@ class MisiSeeder extends Seeder
     {
         $data = [
             [  
-                'keterangan' => '- Memberikan Produk terbaik kepada Pelanggan.
-                - Memberikan keuntungan kepada Pemegang Saham, Karyawan dan Mitra.
-                - Memberikan manfaat lebih kepada masyarakat dan lingkungan.',
+                'keterangan' => '- Memberikan Produk terbaik kepada Pelanggan, Memberikan keuntungan kepada Pemegang Saham, Karyawan dan Mitra, Memberikan manfaat lebih kepada masyarakat dan lingkungan.',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
